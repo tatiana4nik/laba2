@@ -1,3 +1,5 @@
+/** Сортировка слиянием */
+
 #include "head.h"
 void Merge(char *A, int first, int last)
 {
